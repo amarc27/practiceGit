@@ -4,3 +4,4 @@ color : blue
 team : psg / om
 Je viens de rajouter cela.
 Et ca, tu le reçois ?
+On dirait bien que tout fonctionne !
